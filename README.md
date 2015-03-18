@@ -13,3 +13,6 @@ brew install jmeter
 
 ## Watch this video
 [watch this](https://www.youtube.com/watch?v=cv7KqxaLZd8)
+
+## Slideshare
+[Read this](http://www.slideshare.net/dendiesanjaya/jmeter-7069874)
